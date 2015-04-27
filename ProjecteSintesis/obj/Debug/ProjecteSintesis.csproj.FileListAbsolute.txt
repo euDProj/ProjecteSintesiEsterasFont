@@ -1,1 +1,2 @@
 D:\CFGS DAM2\ProjecteFinalDAMJEsterasEFont\ProjecteSintesis\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
+D:\CFGS DAM2\ProjecteFinalDAMJEsterasEFont\ProjecteSintesis\ProjecteSintesiEsterasFont\ProjecteSintesis\bin\Debug\ProjecteSintesis.exe.config
